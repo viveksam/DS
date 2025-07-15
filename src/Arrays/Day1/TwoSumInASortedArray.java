@@ -1,7 +1,6 @@
-package Arrays;
+package Arrays.Day1;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class TwoSumInASortedArray {
 

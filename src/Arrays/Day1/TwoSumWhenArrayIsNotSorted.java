@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Day1;
 
 /*Given an array and a target number, find the indices of the two values from the array that sum up to the given target number.
 
@@ -21,11 +21,8 @@ Output:
 
         [-1, -1]*/
 
-import java.sql.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 
 public class TwoSumWhenArrayIsNotSorted {
 

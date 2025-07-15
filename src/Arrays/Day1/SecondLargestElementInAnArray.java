@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Day1;
 
 public class SecondLargestElementInAnArray {
 
