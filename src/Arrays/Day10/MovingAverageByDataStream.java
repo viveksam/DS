@@ -57,6 +57,7 @@ public class MovingAverageByDataStream {
         }
 
 
+
         return avg/queue.size();
 
     }
